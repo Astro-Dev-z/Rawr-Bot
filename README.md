@@ -1,2 +1,2 @@
 # Rawr-Bot
-Official Rawr-Discord-Bot
+<b>This Bot Is Copyrighted<b>
